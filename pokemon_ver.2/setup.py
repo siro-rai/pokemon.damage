@@ -6,7 +6,7 @@ setup(
     description='A simple Pokémon damage calculator_ver.2',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/siro-rai/damage_calculator.git',  # リポジトリのURL
+    url='https://github.com/siro-rai/pokemon.damage.git',  # リポジトリのURL
     author='siro-rai',
     author_email='s2222013@stu.musashino-u.ac.jp',
     license='MIT',
